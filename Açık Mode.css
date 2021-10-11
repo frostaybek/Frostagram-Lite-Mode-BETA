@@ -1,0 +1,71 @@
+body{
+    background-color: white;
+
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    text-decoration: underline blue;
+    
+}
+
+div{
+border: 1px solid black;
+margin: 1px 130px;
+color: black;
+position: relative;
+margin-top: -220px;
+margin-right: 15px;
+margin-left: 200px;
+
+
+}
+
+h1{
+    color: black;
+}
+
+h2{
+    color: black;
+}
+
+h3{
+    color: black;
+}
+
+h4{
+    color: black;
+}
+
+h5{
+    color: black;
+}
+
+h6{
+    color: black;
+}
+
+span{
+    color: black;
+}
+
+li{
+    color: black;
+    font-size: 18px;
+}
+
+.button {
+      background-color: #1877F2;
+      color: black;
+      height: 30px;
+      font-size: 12px;
+      width: max-content;
+      position: relative;
+      cursor: pointer;
+      left: 47%;
+      border: 0;
+      
+      }
